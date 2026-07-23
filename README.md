@@ -99,7 +99,9 @@ p.s. 如果无法连接到HuggingFace服务器，可将链接中的`huggingface.
 
 1. [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)已经支持Sakura API，可以通过本地部署API后端，使用Sakura翻译漫画。
 
-1. [LinguaGacha](https://github.com/neavo/LinguaGacha) 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
+1. [LinguaGacha](https://github.com/neavo/LinguaGacha) 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器。
+
+1. [屏译 / Screen Translator](https://github.com/ciddwd/overlay-translator)：Android 屏幕实时翻译工具，支持使用 Sakura GGUF 模型进行端侧离线日中翻译，可用于游戏、视觉小说和漫画等屏幕内容。
 
 # 显卡需求与显存需求
 
@@ -283,6 +285,8 @@ p.s. 如果无法连接到HuggingFace服务器，可将链接中的`huggingface.
 - [AiNiee](https://github.com/NEKOparapa/AiNiee-chatgpt)：RPG游戏翻译
 
 - [LinguaGacha](https://github.com/neavo/LinguaGacha) 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
+
+- [屏译](https://github.com/ciddwd/overlay-translator)：Android 屏幕实时翻译工具
 
 # 致谢
 
